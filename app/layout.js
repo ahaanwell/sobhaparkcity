@@ -63,7 +63,7 @@ export const metadata = {
   publisher: SITE_NAME,
   category: "Real Estate",
   verification: {
-    google: "jfQkn0fChTPcvsfH3VQRtpAmuU6W3vqQcEBTTuF0NbM",
+    google: "9c5Y1nvZoLbmUpX07avDL2fDqpoSyHELxS1LL45_i6U",
   },
 };
 
