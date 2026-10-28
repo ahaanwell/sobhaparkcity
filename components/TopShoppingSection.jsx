@@ -12,7 +12,7 @@ export default function TopShoppingSection() {
           id="top-shopping-heading"
           className="text-xl md:text-2xl font-semibold text-gray-900 text-center mb-2"
         >
-          Top Malls and Shopping Hubs Near Sobha Parkcity
+          Top Malls and Shopping Hubs Near Sobha Park City
         </h2>
 
         <div className="w-full h-px bg-gray-200 mb-6" />
@@ -24,14 +24,14 @@ export default function TopShoppingSection() {
               loading="lazy"
             />
   <p>
-    Sobha Parkcity is an upcoming residential project on Hennur Main Road in North Bangalore. For residents planning to live in this part of the city, nearby shopping centres, supermarkets, retail stores, and malls can be useful for everyday purchases, clothing, home essentials, dining, and entertainment.
+    Sobha Park City is an upcoming residential project on Hennur Main Road in North Bangalore. For residents planning to live in this part of the city, nearby shopping centres, supermarkets, retail stores, and malls can be useful for everyday purchases, clothing, home essentials, dining, and entertainment.
   </p>
 
   <p>
     The Hennur–Kothanur area has local retail outlets and shopping destinations, while larger malls are located around Thanisandra, Hebbal, Banaswadi, and Yelahanka. These options serve different needs, so the most convenient destination depends on the type of shopping, available stores, and travel time.
   </p>
 
-  <h2 className="text-2xl font-bold">Top 10 Malls and Shopping Hubs Near Sobha Parkcity</h2>
+  <h2 className="text-2xl font-bold">Top 10 Malls and Shopping Hubs Near Sobha Park City</h2>
 
   <p>
     The table below lists shopping destinations in and around North Bangalore that residents can consider. Distances and travel times are approximate estimates from the Hennur Main Road locality, not verified measurements from the upcoming project's exact entrance. Actual travel times may vary with traffic and route selection.
@@ -43,7 +43,7 @@ export default function TopShoppingSection() {
         <tr className="bg-gray-100">
           <th className="border border-gray-300 p-3 text-left">Mall / Shopping Hub</th>
           <th className="border border-gray-300 p-3 text-left">Type of Shopping</th>
-          <th className="border border-gray-300 p-3 text-left">Approx. Distance from Sobha Parkcity</th>
+          <th className="border border-gray-300 p-3 text-left">Approx. Distance from Sobha Park City</th>
           <th className="border border-gray-300 p-3 text-left">Approx. Travel Time</th>
         </tr>
       </thead>

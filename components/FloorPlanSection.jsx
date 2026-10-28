@@ -8,25 +8,25 @@ const floorPlans = [
     id: 1,
     label: "1 BHK Floor Plan",
     image: "./images/floorplans/1bhk.webp",
-    alt: "Sobha Parkcity 1 BHK floor plan",
+    alt: "Sobha Park City 1 BHK floor plan",
   },
   {
     id: 2,
     label: "2 BHK Floor Plan",
     image: "./images/floorplans/2bhk.webp",
-    alt: "Sobha Parkcity 2 BHK floor plan",
+    alt: "Sobha Park City 2 BHK floor plan",
   },
   {
     id: 3,
     label: "3 BHK Floor Plan",
     image: "./images/floorplans/3bhk.webp",
-    alt: "Sobha Parkcity 3 BHK floor plan",
+    alt: "Sobha Park City 3 BHK floor plan",
   },
   {
     id: 4,
     label: "4 BHK Floor Plan",
     image: "./images/floorplans/4bhk.webp",
-    alt: "Sobha Parkcity 4 BHK floor plan",
+    alt: "Sobha Park City 4 BHK floor plan",
   },
 ];
 
@@ -43,13 +43,13 @@ export default function FloorPlanSection() {
           id="floor-plan-heading"
           className="text-xl md:text-2xl font-semibold text-gray-900 text-center mb-2"
         >
-          Sobha Parkcity Floor Plan
+          Sobha Park City Floor Plan
         </h2>
 
         <div className="w-full h-px bg-gray-200 mb-6" />
         <div className="space-y-6 text-gray-800 mb-6">
   <p>
-    The <a href="https://www.sobhaparkcity.com/floor-plan"><strong>Sobha Parkcity floor plans</strong></a> are described as offering 1 BHK, 2 BHK, 3 BHK, and 4 BHK apartments with different space options for homebuyers. The reported super built-up areas range from 721 sq. ft. to 2,500 sq. ft., allowing buyers to compare layouts according to their household size and space requirements.
+    The <a href="https://www.sobhaparkcity.com/floor-plan"><strong>Sobha Park City floor plans</strong></a> are described as offering 1 BHK, 2 BHK, 3 BHK, and 4 BHK apartments with different space options for homebuyers. The reported super built-up areas range from 721 sq. ft. to 2,500 sq. ft., allowing buyers to compare layouts according to their household size and space requirements.
   </p>
 
   <p>
@@ -58,7 +58,7 @@ export default function FloorPlanSection() {
 </div>
         <ul
           className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3"
-          aria-label="Sobha Parkcity floor plans"
+          aria-label="Sobha Park City floor plans"
         >
           {floorPlans.map((plan) => (
             <li

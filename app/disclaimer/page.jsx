@@ -2,28 +2,28 @@ import { JsonLd, buildMetadata, pageSchema } from "@/lib/seo";
 import DisclaimerPage from "./DisclaimerPage";
 
 const PATH = "/disclaimer";
-const TITLE = "Sobha Parkcity Disclaimer | Project Information & Buyer Guidance";
+const TITLE = "Sobha Park City Disclaimer | Project Information & Buyer Guidance";
 const DESCRIPTION =
-  "Read the Sobha Parkcity disclaimer for reported Hennur Main Road project details, indicative prices and plans, RERA checks, possession timelines and buyer due diligence.";
+  "Read the Sobha Park City disclaimer for reported Hennur Main Road project details, indicative prices and plans, RERA checks, possession timelines and buyer due diligence.";
 
 export const metadata = buildMetadata({
   title: TITLE,
   description: DESCRIPTION,
   path: PATH,
   keywords: [
-    "Sobha Parkcity disclaimer",
-    "Sobha Parkcity project disclaimer",
-    "Sobha Parkcity Hennur Main Road information",
-    "Sobha Parkcity price disclaimer",
-    "Sobha Parkcity RERA status verification",
-    "Sobha Parkcity project details and buyer guidance",
-    "Sobha Parkcity plans and possession information",
+    "Sobha Park City disclaimer",
+    "Sobha Park City project disclaimer",
+    "Sobha Park City Hennur Main Road information",
+    "Sobha Park City price disclaimer",
+    "Sobha Park City RERA status verification",
+    "Sobha Park City project details and buyer guidance",
+    "Sobha Park City plans and possession information",
   ],
 });
 
 const schema = pageSchema({
   path: PATH,
-  name: "Sobha Parkcity Disclaimer",
+  name: "Sobha Park City Disclaimer",
   title: TITLE,
   description: DESCRIPTION,
   withProject: false,

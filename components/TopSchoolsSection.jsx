@@ -12,7 +12,7 @@ export default function TopSchoolsSection() {
           id="top-schools-heading"
           className="text-xl md:text-2xl font-semibold text-gray-900 text-center mb-2"
         >
-          Top Schools Near Sobha Parkcity
+          Top Schools Near Sobha Park City
         </h2>
 
         <div className="w-full h-px bg-gray-200 mb-6" />
@@ -24,14 +24,14 @@ export default function TopSchoolsSection() {
               loading="lazy"
             />
   <p>
-    Sobha Parkcity is an upcoming residential project on Hennur Main Road in North Bangalore. For families planning to live in this part of the city, nearby educational institutions are an important consideration when assessing everyday convenience and children's school commute.
+    Sobha Park City is an upcoming residential project on Hennur Main Road in North Bangalore. For families planning to live in this part of the city, nearby educational institutions are an important consideration when assessing everyday convenience and children's school commute.
   </p>
 
   <p>
     The wider Hennur area connects to neighbourhoods such as Kothanur, Byrathi, and Kannuru, where families can explore schools offering different educational boards and curricula. The most suitable choice depends on a child's grade, the preferred curriculum, admission availability, school transport, and the time required to travel during school hours.
   </p>
 
-  <h2 className="text-2xl font-bold">Top 10 Schools Near Sobha Parkcity</h2>
+  <h2 className="text-2xl font-bold">Top 10 Schools Near Sobha Park City</h2>
 
   <p>
     The following schools are options to investigate in and around the Hennur Main Road area. Distances and travel times below are indicative estimates, not confirmed measurements from the upcoming project's entrance. They may vary depending on the final project access point, route, and traffic conditions.
@@ -43,7 +43,7 @@ export default function TopSchoolsSection() {
         <tr className="bg-gray-100">
           <th className="border border-gray-300 p-3 text-left">School Name</th>
           <th className="border border-gray-300 p-3 text-left">Board / Curriculum</th>
-          <th className="border border-gray-300 p-3 text-left">Distance from Sobha Parkcity (Approx.)</th>
+          <th className="border border-gray-300 p-3 text-left">Distance from Sobha Park City (Approx.)</th>
           <th className="border border-gray-300 p-3 text-left">Approx. Travel Time</th>
         </tr>
       </thead>

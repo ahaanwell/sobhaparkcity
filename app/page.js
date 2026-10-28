@@ -19,14 +19,14 @@ import TopShoppingSection from "@/components/TopShoppingSection";
 import SobhaGroupSection from "@/components/SobhaGroupSection";
 
 const KEYWORDS = [
-  "Sobha Parkcity",
-  "Sobha Parkcity Hennur Main Road",
-  "Sobha Parkcity new launch",
-  "Sobha Parkcity pre launch",
-  "Sobha Parkcity price",
-  "Sobha Parkcity brochure download",
-  "Sobha Parkcity RERA",
-  "Sobha Parkcity possession date",
+  "Sobha Park City",
+  "Sobha Park City Hennur Main Road",
+  "Sobha Park City new launch",
+  "Sobha Park City pre launch",
+  "Sobha Park City price",
+  "Sobha Park City brochure download",
+  "Sobha Park City RERA",
+  "Sobha Park City possession date",
   "Sobha new project Hennur Bangalore",
   "Sobha upcoming project Bangalore 2026",
   "luxury apartments Hennur Bangalore",

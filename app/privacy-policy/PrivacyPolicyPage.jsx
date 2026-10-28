@@ -16,7 +16,7 @@ export default function PrivacyPolicyPage() {
       <article className="max-w-5xl mx-auto py-10 text-gray-800">
         <header className="mb-8">
           <h1 className="text-2xl md:text-3xl font-bold text-gray-900 text-center">
-            Sobha Parkcity Website Privacy Policy
+            Sobha Park City Website Privacy Policy
           </h1>
           <p className="mt-2 text-sm text-gray-600 text-center">
             Last updated: {LAST_UPDATED}
@@ -25,7 +25,7 @@ export default function PrivacyPolicyPage() {
             This policy explains how{" "}
             <IntLink href="/"><strong>SobhaParkcity.com</strong></IntLink>{" "}
             handles personal information submitted through enquiries about{" "}
-            <strong>Sobha Parkcity</strong>, a proposed residential development
+            <strong>Sobha Park City</strong>, a proposed residential development
             on <strong>Hennur Main Road in North Bangalore</strong>. This is an
             independent project-information website, not the official website
             of Sobha Limited or Sobha Group. The policy describes the
@@ -243,7 +243,7 @@ export default function PrivacyPolicyPage() {
             or a privacy request, contact us through the{" "}
             <IntLink href="/contact"><strong>contact page</strong></IntLink>.
             For information about the project itself, see the{" "}
-            <IntLink href="/about"><strong>Sobha Parkcity overview</strong></IntLink>{" "}
+            <IntLink href="/about"><strong>Sobha Park City overview</strong></IntLink>{" "}
             or the <IntLink href="/disclaimer"><strong>project disclaimer</strong></IntLink>.
           </p>
         </section>

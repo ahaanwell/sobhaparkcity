@@ -13,7 +13,7 @@ function MasterPlanPage() {
         </div>
         <div className="max-w-5xl mx-auto py-10">
           <h1 className="text-2xl md:text-3xl font-bold text-gray-800 text-center">
-            Sobha Parkcity Master Plan
+            Sobha Park City Master Plan
           </h1>
           <DownloadActions/>
         </div>

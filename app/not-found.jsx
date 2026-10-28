@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const helpfulLinks = [
   { href: "/", label: "Project Home" },
-  { href: "/about", label: "About Sobha Parkcity" },
+  { href: "/about", label: "About Sobha Park City" },
   { href: "/price", label: "Price Information" },
   { href: "/contact", label: "Contact Us" },
 ];
@@ -25,7 +25,7 @@ export default function NotFound() {
         </h1>
         <p className="mt-4 leading-7 text-gray-600">
           The address may be outdated, or the page may have moved. Continue to
-          the Sobha Parkcity project home page or choose one of these helpful
+          the Sobha Park City project home page or choose one of these helpful
           pages.
         </p>
         <Link

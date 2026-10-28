@@ -82,7 +82,7 @@ export default function EMICalculator() {
       <div className="w-full max-w-5xl relative mt-6">
         <div className="text-center">
           <h2 className="text-2xl font-semibold text-gray-900 text-center mb-2">
-            Sobha Parkcity EMI Calculator
+            Sobha Park City EMI Calculator
           </h2>
           
         </div>

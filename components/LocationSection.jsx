@@ -24,7 +24,7 @@ export default function LocationSection() {
         <div className="w-full h-px bg-gray-200 mb-6" />
         <div className="space-y-6 text-gray-800 mb-6">
   <p>
-    Sobha Parkcity is described as a residential apartment development on Hennur Main Road in North Bangalore. Its location is an important consideration for homebuyers assessing daily commutes, access to essential services, and travel to employment centres across the city.
+    Sobha Park City is described as a residential apartment development on Hennur Main Road in North Bangalore. Its location is an important consideration for homebuyers assessing daily commutes, access to essential services, and travel to employment centres across the city.
   </p>
 
   <p>
@@ -32,7 +32,7 @@ export default function LocationSection() {
   </p>
 
   <p>
-    The surrounding area can be evaluated for access to schools, healthcare facilities, shopping centres, and public transportation. Buyers working in different parts of Bengaluru should check their regular commuting routes before choosing an apartment at Sobha Parkcity.
+    The surrounding area can be evaluated for access to schools, healthcare facilities, shopping centres, and public transportation. Buyers working in different parts of Bengaluru should check their regular commuting routes before choosing an apartment at Sobha Park City.
   </p>
 
   <p>
@@ -50,23 +50,23 @@ export default function LocationSection() {
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
               title="Map of Hennur Main Road, North Bangalore"
-              aria-label="Google Maps showing Hennur Main Road in Bangalore; this is not a verified Sobha Parkcity site pin"
+              aria-label="Google Maps showing Hennur Main Road in Bangalore; this is not a verified Sobha Park City site pin"
             />
           </div>
 
           <Link
             href="/location"
-            aria-label="Know more about Sobha Parkcity location on Hennur Main Road, Bangalore"
+            aria-label="Know more about Sobha Park City location on Hennur Main Road, Bangalore"
             className="block w-full bg-primary hover:bg-primary-dark text-white text-center font-semibold text-lg py-4 transition-colors duration-200"
           >
             Know More About Location
           </Link>
         </div>
         <div className="space-y-6 text-gray-800 mb-6">
-  <h2 className="text-2xl font-bold">Location Advantages of Sobha Parkcity</h2>
+  <h2 className="text-2xl font-bold">Location Advantages of Sobha Park City</h2>
 
   <p>
-    <a href="https://www.sobhaparkcity.com/location"><strong>Sobha Parkcity's location</strong></a> on <b>Hennur Main Road</b> offers access to several parts of North Bangalore. When evaluating the location, buyers should consider road connectivity, nearby employment centres, educational institutions, healthcare facilities, and shopping destinations.
+    <a href="https://www.sobhaparkcity.com/location"><strong>Sobha Park City's location</strong></a> on <b>Hennur Main Road</b> offers access to several parts of North Bangalore. When evaluating the location, buyers should consider road connectivity, nearby employment centres, educational institutions, healthcare facilities, and shopping destinations.
   </p>
 
   <p>Key location factors to assess include:</p>
@@ -87,7 +87,7 @@ export default function LocationSection() {
   <h3 className="text-xl font-bold">Connectivity Snapshot</h3>
 
   <p>
-    The following destinations are relevant to a location assessment of the Hennur area. Distances are indicative and should be checked from the exact Sobha Parkcity site before publishing them as confirmed project distances.
+    The following destinations are relevant to a location assessment of the Hennur area. Distances are indicative and should be checked from the exact Sobha Park City site before publishing them as confirmed project distances.
   </p>
 
   <div className="overflow-x-auto">
@@ -148,13 +148,13 @@ export default function LocationSection() {
   </p>
 
   <p>
-    Located in North Bangalore, Sobha Parkcity can be assessed in terms of its access to employment areas, essential services, and major road networks. For homebuyers, the most useful approach is to test regular commute routes, check nearby facilities, and confirm the project's exact location before making a purchase decision.
+    Located in North Bangalore, Sobha Park City can be assessed in terms of its access to employment areas, essential services, and major road networks. For homebuyers, the most useful approach is to test regular commute routes, check nearby facilities, and confirm the project's exact location before making a purchase decision.
   </p>
 
-  <h2 className="text-2xl font-bold">Sobha Parkcity Airport Connectivity</h2>
+  <h2 className="text-2xl font-bold">Sobha Park City Airport Connectivity</h2>
 
   <p>
-    For residents of <b>Sobha Parkcity on Hennur Main Road</b>, access to Kempegowda International Airport is an important factor when considering the project's location. The journey depends on the chosen route, traffic levels, and the precise entry point of the development.
+    For residents of <b>Sobha Park City on Hennur Main Road</b>, access to Kempegowda International Airport is an important factor when considering the project's location. The journey depends on the chosen route, traffic levels, and the precise entry point of the development.
   </p>
 
   <p>
@@ -164,7 +164,7 @@ export default function LocationSection() {
   <h2 className="text-2xl font-bold">Metro Connectivity</h2>
 
   <p>
-    Access to Namma Metro is another consideration for people evaluating Sobha Parkcity. Buyers can check the operational metro stations serving North Bangalore and determine how easily they can reach them from Hennur Main Road.
+    Access to Namma Metro is another consideration for people evaluating Sobha Park City. Buyers can check the operational metro stations serving North Bangalore and determine how easily they can reach them from Hennur Main Road.
   </p>
 
   <p>
@@ -184,7 +184,7 @@ export default function LocationSection() {
   <h2 className="text-2xl font-bold">Road Connectivity</h2>
 
   <p>
-    Sobha Parkcity's stated location on Hennur Main Road makes road access a relevant part of evaluating the development. Buyers should consider the routes connecting the area with employment centres, the airport, and other residential neighbourhoods.
+    Sobha Park City's stated location on Hennur Main Road makes road access a relevant part of evaluating the development. Buyers should consider the routes connecting the area with employment centres, the airport, and other residential neighbourhoods.
   </p>
 
   <p>Important connections and destinations to examine include:</p>
@@ -264,13 +264,13 @@ export default function LocationSection() {
   </p>
 
   <p>
-    For Sobha Parkcity, the stated Hennur Main Road location is one factor in assessing whether the development suits a buyer's requirements. Checking routes to workplaces, schools, hospitals, and shopping destinations can help establish how well the location fits everyday routines.
+    For Sobha Park City, the stated Hennur Main Road location is one factor in assessing whether the development suits a buyer's requirements. Checking routes to workplaces, schools, hospitals, and shopping destinations can help establish how well the location fits everyday routines.
   </p>
 
-  <h3 className="text-xl font-bold">Evaluating Sobha Parkcity's Location</h3>
+  <h3 className="text-xl font-bold">Evaluating Sobha Park City's Location</h3>
 
   <p>
-    Sobha Parkcity is described as a residential apartment development on Hennur Main Road in North Bangalore. The available project information lists 1 BHK, 2 BHK, 3 BHK, and 4 BHK apartments in a proposed development covering approximately 50 acres.
+    Sobha Park City is described as a residential apartment development on Hennur Main Road in North Bangalore. The available project information lists 1 BHK, 2 BHK, 3 BHK, and 4 BHK apartments in a proposed development covering approximately 50 acres.
   </p>
 
   <p>
@@ -282,10 +282,10 @@ export default function LocationSection() {
   </p>
 </div>
 <div className="space-y-6 text-gray-800 mb-6">
-  <h2 className="text-2xl font-bold">Most Important Places Connected to Sobha Parkcity in North Bangalore</h2>
+  <h2 className="text-2xl font-bold">Most Important Places Connected to Sobha Park City in North Bangalore</h2>
 
   <p>
-    Sobha Parkcity is described as a residential apartment development on Hennur Main Road in North Bangalore. When evaluating its location, prospective buyers may consider nearby employment centres, major roads, public transport, healthcare facilities, educational institutions, and shopping destinations.
+    Sobha Park City is described as a residential apartment development on Hennur Main Road in North Bangalore. When evaluating its location, prospective buyers may consider nearby employment centres, major roads, public transport, healthcare facilities, educational institutions, and shopping destinations.
   </p>
 
   <p>
@@ -295,7 +295,7 @@ export default function LocationSection() {
   <h3 className="text-xl font-bold">1. Hennur Main Road</h3>
 
   <p>
-    <a href="https://www.google.com/maps/search/hennur+road" rel="nofollow noopener noreferrer"><b>Hennur Main Road</b></a> is the primary road associated with Sobha Parkcity's stated location. It connects residential neighbourhoods in North Bangalore and provides access to local shops, schools, healthcare facilities, and connecting roads.
+    <a href="https://www.google.com/maps/search/hennur+road" rel="nofollow noopener noreferrer"><b>Hennur Main Road</b></a> is the primary road associated with Sobha Park City's stated location. It connects residential neighbourhoods in North Bangalore and provides access to local shops, schools, healthcare facilities, and connecting roads.
   </p>
 
   <p>
@@ -319,7 +319,7 @@ export default function LocationSection() {
   </p>
 
   <p>
-    Homebuyers working at Manyata Tech Park should check the actual commuting distance from Sobha Parkcity and compare peak-hour travel times before making a decision.
+    Homebuyers working at Manyata Tech Park should check the actual commuting distance from Sobha Park City and compare peak-hour travel times before making a decision.
   </p>
 
   <h3 className="text-xl font-bold">4. Outer Ring Road</h3>
@@ -329,7 +329,7 @@ export default function LocationSection() {
   </p>
 
   <p>
-    For residents of Sobha Parkcity, the practical benefit depends on the nearest accessible junction and the traffic conditions along the connecting roads.
+    For residents of Sobha Park City, the practical benefit depends on the nearest accessible junction and the traffic conditions along the connecting roads.
   </p>
 
   <h3 className="text-xl font-bold">5. Kempegowda International Airport</h3>
@@ -359,7 +359,7 @@ export default function LocationSection() {
   </p>
 
   <p>
-    Its relevance to Sobha Parkcity depends on the exact route and the services a buyer needs to access regularly.
+    Its relevance to Sobha Park City depends on the exact route and the services a buyer needs to access regularly.
   </p>
 
   <h3 className="text-xl font-bold">8. Kirloskar Business Park</h3>
@@ -369,7 +369,7 @@ export default function LocationSection() {
   </p>
 
   <p>
-    Buyers should verify the driving distance and peak-hour travel time from Sobha Parkcity before treating it as a convenient daily commute.
+    Buyers should verify the driving distance and peak-hour travel time from Sobha Park City before treating it as a convenient daily commute.
   </p>
 
   <h3 className="text-xl font-bold">9. Elements Mall</h3>
@@ -389,7 +389,7 @@ export default function LocationSection() {
   </p>
 
   <p>
-    The practical convenience for Sobha Parkcity residents depends on current road conditions and the distance from the confirmed project entrance.
+    The practical convenience for Sobha Park City residents depends on current road conditions and the distance from the confirmed project entrance.
   </p>
 
   <h3 className="text-xl font-bold">11. Aster CMI Hospital</h3>
@@ -409,7 +409,7 @@ export default function LocationSection() {
   </p>
 
   <p>
-    The hospital's practical accessibility should be assessed using the actual road route from Sobha Parkcity rather than straight-line distance alone.
+    The hospital's practical accessibility should be assessed using the actual road route from Sobha Park City rather than straight-line distance alone.
   </p>
 
   <h3 className="text-xl font-bold">13. Delhi Public School, North Bangalore</h3>
@@ -425,7 +425,7 @@ export default function LocationSection() {
   <h3 className="text-xl font-bold">14. Namma Metro</h3>
 
   <p>
-    Namma Metro provides public transport connections across parts of Bengaluru. For people considering Sobha Parkcity, the important factors are the nearest operational station, available connecting transport, and the time required to reach it from the project.
+    Namma Metro provides public transport connections across parts of Bengaluru. For people considering Sobha Park City, the important factors are the nearest operational station, available connecting transport, and the time required to reach it from the project.
   </p>
 
   <p>
@@ -439,14 +439,14 @@ export default function LocationSection() {
   </p>
 
   <p>
-    Prospective residents should check the route from Sobha Parkcity to the relevant station, including traffic conditions and the availability of taxis or buses.
+    Prospective residents should check the route from Sobha Park City to the relevant station, including traffic conditions and the availability of taxis or buses.
   </p>
 </div>
 <div className="space-y-6 text-gray-800">
-  <h2 className="text-2xl font-bold">Evaluating Sobha Parkcity's Location</h2>
+  <h2 className="text-2xl font-bold">Evaluating Sobha Park City's Location</h2>
 
   <p>
-    Sobha Parkcity's stated location on Hennur Main Road places it within North Bangalore's wider residential area. Nearby employment centres, road connections, schools, hospitals, and shopping destinations are useful factors to consider when evaluating the project.
+    Sobha Park City's stated location on Hennur Main Road places it within North Bangalore's wider residential area. Nearby employment centres, road connections, schools, hospitals, and shopping destinations are useful factors to consider when evaluating the project.
   </p>
 
   <p>

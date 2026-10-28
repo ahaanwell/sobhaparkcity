@@ -12,7 +12,7 @@ function LocationPage() {
         </div>
         <div className="max-w-5xl mx-auto py-10">
           <h1 className="text-2xl md:text-3xl font-bold text-gray-800 text-center">
-            Sobha Parkcity Location
+            Sobha Park City Location
           </h1>
           <DownloadActions/>
         </div>

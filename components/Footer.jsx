@@ -82,7 +82,7 @@ export default function Footer() {
 
           {/* Copyright */}
           <p className="text-center text-xs md:text-sm text-gray-600">
-            © 2026 Sobha Parkcity. All rights reserved.
+            © 2026 Sobha Park City. All rights reserved.
             <span className="hidden md:inline mx-2 text-gray-300">|</span>
             <br className="md:hidden" />
             Developed and Marketing by{" "}

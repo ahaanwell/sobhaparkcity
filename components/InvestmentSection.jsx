@@ -12,7 +12,7 @@ export default function InvestmentSection() {
           id="investment-heading"
           className="text-xl md:text-2xl font-semibold text-gray-900 text-center mb-2"
         >
-          Top 6 Reasons to Consider Sobha Parkcity for Real Estate Investment
+          Top 6 Reasons to Consider Sobha Park City for Real Estate Investment
         </h2>
 
         <div className="w-full h-px bg-gray-200 mb-6" />
@@ -24,17 +24,17 @@ export default function InvestmentSection() {
               loading="lazy"
             />
   <p>
-    Hennur, in North Bangalore, is a location homebuyers may consider when comparing residential properties based on connectivity, access to employment centres, and everyday convenience. Sobha Parkcity is described as a residential apartment development on Hennur Main Road, with planned 2, 3, and 4 BHK apartments.
+    Hennur, in North Bangalore, is a location homebuyers may consider when comparing residential properties based on connectivity, access to employment centres, and everyday convenience. Sobha Park City is described as a residential apartment development on Hennur Main Road, with planned 2, 3, and 4 BHK apartments.
   </p>
 
   <p>
-    For buyers evaluating Sobha Parkcity as a potential investment, factors such as the location, apartment sizes, total purchase cost, project approvals, and the surrounding infrastructure deserve careful consideration.
+    For buyers evaluating Sobha Park City as a potential investment, factors such as the location, apartment sizes, total purchase cost, project approvals, and the surrounding infrastructure deserve careful consideration.
   </p>
 
   <h3 className="text-xl font-bold">1. Location on Hennur Main Road</h3>
 
   <p>
-    Sobha Parkcity is associated with Hennur Main Road, which connects residential neighbourhoods in North Bangalore with other parts of the city. The location may be relevant to buyers who need access to nearby commercial areas, schools, hospitals, and retail facilities.
+    Sobha Park City is associated with Hennur Main Road, which connects residential neighbourhoods in North Bangalore with other parts of the city. The location may be relevant to buyers who need access to nearby commercial areas, schools, hospitals, and retail facilities.
   </p>
 
   <p>
@@ -48,7 +48,7 @@ export default function InvestmentSection() {
   </p>
 
   <p>
-    However, commuting convenience depends on the specific route and time of travel. Buyers should compare actual journey times from Sobha Parkcity rather than relying only on general proximity to employment hubs.
+    However, commuting convenience depends on the specific route and time of travel. Buyers should compare actual journey times from Sobha Park City rather than relying only on general proximity to employment hubs.
   </p>
 
   <h3 className="text-xl font-bold">3. Road and Transport Connectivity</h3>
@@ -64,7 +64,7 @@ export default function InvestmentSection() {
   <h3 className="text-xl font-bold">4. Different Apartment Configurations</h3>
 
   <p>
-    Sobha Parkcity is reported to offer 1 BHK, 2 BHK, 3 BHK, and 4 BHK apartments. The available information lists super built-up areas of approximately 721 sq. ft., 1,200 sq. ft., 1,600–1,900 sq. ft., and 2,500 sq. ft., respectively.
+    Sobha Park City is reported to offer 1 BHK, 2 BHK, 3 BHK, and 4 BHK apartments. The available information lists super built-up areas of approximately 721 sq. ft., 1,200 sq. ft., 1,600–1,900 sq. ft., and 2,500 sq. ft., respectively.
   </p>
 
   <p>
@@ -74,7 +74,7 @@ export default function InvestmentSection() {
   <h3 className="text-xl font-bold">5. Large-Scale Residential Planning</h3>
 
   <p>
-    The available project details describe Sobha Parkcity as a development spread across approximately 50 acres, with 12 towers and more than 4,400 apartments. A residential development of this scale requires careful consideration of tower placement, common facilities, parking, and internal movement.
+    The available project details describe Sobha Park City as a development spread across approximately 50 acres, with 12 towers and more than 4,400 apartments. A residential development of this scale requires careful consideration of tower placement, common facilities, parking, and internal movement.
   </p>
 
   <p>
@@ -84,7 +84,7 @@ export default function InvestmentSection() {
   <h3 className="text-xl font-bold">6. Evaluating Long-Term Investment Potential</h3>
 
   <p>
-    The investment suitability of Sobha Parkcity depends on several factors, including the final purchase price, location, project approvals, construction progress, and demand for comparable apartments in Hennur.
+    The investment suitability of Sobha Park City depends on several factors, including the final purchase price, location, project approvals, construction progress, and demand for comparable apartments in Hennur.
   </p>
 
   <p>

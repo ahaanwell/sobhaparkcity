@@ -8,19 +8,19 @@ const floorPlans = [
     id: 1,
     label: "2 BHK Floor Plan",
     image: "./images/floorplans/2bhk.webp",
-    alt: "Sobha Parkcity 2 BHK floor plan, Hennur Main Road, Bangalore",
+    alt: "Sobha Park City 2 BHK floor plan, Hennur Main Road, Bangalore",
   },
   {
     id: 2,
     label: "3 BHK Floor Plan",
     image: "./images/floorplans/3bhk.webp",
-    alt: "Sobha Parkcity 3 BHK floor plan, Hennur Main Road, Bangalore",
+    alt: "Sobha Park City 3 BHK floor plan, Hennur Main Road, Bangalore",
   },
   {
     id: 3,
     label: "4 BHK Floor Plan",
     image: "./images/floorplans/4bhk.webp",
-    alt: "Sobha Parkcity 4 BHK floor plan, Hennur Main Road, Bangalore",
+    alt: "Sobha Park City 4 BHK floor plan, Hennur Main Road, Bangalore",
   },
 ];
 
@@ -33,7 +33,7 @@ function FloorPlanPage() {
         </div>
         <div className="max-w-5xl mx-auto py-10">
           <h1 className="text-2xl md:text-3xl font-bold text-gray-800 text-center">
-            Sobha Parkcity Floor Plan
+            Sobha Park City Floor Plan
           </h1>
           <DownloadActions/>
         </div>

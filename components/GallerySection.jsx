@@ -15,19 +15,19 @@ export default function GallerySection() {
           id="gallery-heading"
           className="text-xl md:text-2xl font-semibold text-gray-900 text-center mb-2"
         >
-          Sobha Parkcity Gallery
+          Sobha Park City Gallery
         </h2>
 
         <div className="w-full h-px bg-gray-200 mb-6" />
         <div className="space-y-6 text-gray-800 mb-6">
   <p>
-    The <b>Sobha Parkcity gallery</b> can help prospective buyers understand the proposed residential development through project images, architectural visuals, apartment layouts, and master-plan illustrations. These visual materials can provide an initial impression of the towers, shared spaces, and overall design approach.
+    The <b>Sobha Park City gallery</b> can help prospective buyers understand the proposed residential development through project images, architectural visuals, apartment layouts, and master-plan illustrations. These visual materials can provide an initial impression of the towers, shared spaces, and overall design approach.
   </p>
 </div>
 <GalleryCleint/>
         
         <div className="space-y-6 text-gray-800 mt-6">
-  <h3 className="text-xl font-bold">What to Look for in the Sobha Parkcity Gallery</h3>
+  <h3 className="text-xl font-bold">What to Look for in the Sobha Park City Gallery</h3>
 
   <p>
     <strong>Exterior views:</strong> Architectural images can help buyers understand the proposed tower design, building proportions, and overall appearance. Rendered images should be treated as illustrations unless they are confirmed to represent completed construction.
@@ -50,7 +50,7 @@ export default function GallerySection() {
   </p>
 
   <p>
-    The Sobha Parkcity gallery should be used alongside the approved master plan, floor plans, and official specifications rather than as the sole basis for a purchase decision. Comparing the visual material with documented details can help buyers develop a clearer understanding of the proposed homes and shared facilities.
+    The Sobha Park City gallery should be used alongside the approved master plan, floor plans, and official specifications rather than as the sole basis for a purchase decision. Comparing the visual material with documented details can help buyers develop a clearer understanding of the proposed homes and shared facilities.
   </p>
 </div>
       </div>

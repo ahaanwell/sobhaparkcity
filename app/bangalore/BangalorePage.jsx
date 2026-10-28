@@ -22,7 +22,7 @@ function BangalorePage() {
           </p>
           <p className="mt-4 leading-7">
             If you are specifically researching{" "}
-            <IntLink href="/"><strong>Sobha Parkcity</strong></IntLink>, the
+            <IntLink href="/"><strong>Sobha Park City</strong></IntLink>, the
             proposed apartment development on <strong>Hennur Main Road</strong>,
             see its <IntLink href="/about"><strong>project overview</strong></IntLink>,{" "}
             <IntLink href="/price"><strong>reported price information</strong></IntLink>{" "}
@@ -178,7 +178,7 @@ function BangalorePage() {
           </p>
           <p className="mt-4 leading-7">
             Use the{" "}
-            <IntLink href="/location"><strong>Sobha Parkcity location guide</strong></IntLink>{" "}
+            <IntLink href="/location"><strong>Sobha Park City location guide</strong></IntLink>{" "}
             to explore Hennur, or review the proposed project’s{" "}
             <IntLink href="/master-plan"><strong>master plan details</strong></IntLink>.
             The site’s{" "}
@@ -210,8 +210,8 @@ function BangalorePage() {
               <p className="mt-2 leading-7">The supplied information is inconsistent: it describes the status as awaiting approval while also providing a RERA registration number. Verify the project name, promoter and current registration directly with Karnataka RERA before relying on either claim.</p>
             </div>
             <div className="border-b border-gray-200 pb-4">
-              <h3 className="font-semibold text-gray-900">Where can I find information about Sobha Parkcity?</h3>
-              <p className="mt-2 leading-7">Sobha Parkcity is proposed on Hennur Main Road in North Bangalore. See the project overview, location, price and floor-plan pages on this website, and verify all current details with official documents.</p>
+              <h3 className="font-semibold text-gray-900">Where can I find information about Sobha Park City?</h3>
+              <p className="mt-2 leading-7">Sobha Park City is proposed on Hennur Main Road in North Bangalore. See the project overview, location, price and floor-plan pages on this website, and verify all current details with official documents.</p>
             </div>
             <div className="border-b border-gray-200 pb-4">
               <h3 className="font-semibold text-gray-900">How should I compare these Sobha properties?</h3>

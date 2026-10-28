@@ -32,7 +32,7 @@ const contactCards = [
 ];
 
 const steps = [
-  ["Choose how to contact us", "Use the enquiry form, call, or WhatsApp to ask about Sobha Parkcity."],
+  ["Choose how to contact us", "Use the enquiry form, call, or WhatsApp to ask about Sobha Park City."],
   ["Tell us what you are looking for", "Share your preferred apartment configuration and the information you would like to receive."],
   ["Get a response to your enquiry", "Ask about reported pricing, plans, brochure availability or project details."],
   ["Arrange a visit if available", "Contact us to discuss a site visit. Confirm the current project status, exact address and visit arrangements before travelling."],
@@ -56,11 +56,11 @@ function ContactPage() {
         </div>
         <div className="max-w-5xl mx-auto py-10">
           <h1 className="text-2xl md:text-3xl font-bold text-gray-800 text-center">
-            Contact Sobha Parkcity, Hennur Main Road
+            Contact Sobha Park City, Hennur Main Road
           </h1>
 
           <p className="mt-6 text-gray-800 text-center max-w-3xl mx-auto leading-7">
-            Looking for information about <IntLink href="/"><strong>Sobha Parkcity</strong></IntLink>, the proposed apartment development on <IntLink href="/location"><strong>Hennur Main Road in North Bangalore</strong></IntLink>? Call, send a WhatsApp message, or submit the form to ask about reported <IntLink href="/price"><strong>prices</strong></IntLink>, <IntLink href="/floor-plan"><strong>1, 2, 3 and 4 BHK floor plans</strong></IntLink>, or available project materials. Details may change; verify current information with official project documents.
+            Looking for information about <IntLink href="/"><strong>Sobha Park City</strong></IntLink>, the proposed apartment development on <IntLink href="/location"><strong>Hennur Main Road in North Bangalore</strong></IntLink>? Call, send a WhatsApp message, or submit the form to ask about reported <IntLink href="/price"><strong>prices</strong></IntLink>, <IntLink href="/floor-plan"><strong>1, 2, 3 and 4 BHK floor plans</strong></IntLink>, or available project materials. Details may change; verify current information with official project documents.
           </p>
 
           <div className="mt-8 grid grid-cols-1 md:grid-cols-3 gap-4">
@@ -116,7 +116,7 @@ function ContactPage() {
           <div className="mt-10 space-y-8">
             <div>
               <h2 className="text-2xl font-semibold text-gray-800">
-                Sobha Parkcity information you can request
+                Sobha Park City information you can request
               </h2>
               <p className="mt-4 text-gray-800">
                 Current website information describes a proposed development of approximately <strong>50 acres</strong>, with <strong>12 blocks, 24 wings</strong> and more than <strong>4,400 apartments</strong>. Reported homes include <strong>1, 2, 3 and 4 BHK</strong> configurations. These details, along with indicative prices and the reported possession schedule, require confirmation. You can ask about:

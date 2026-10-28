@@ -12,7 +12,7 @@ export default function RERASection() {
           id="rera-heading"
           className="text-xl md:text-2xl font-semibold text-gray-900 text-center mb-2"
         >
-          RERA, Approvals, and Legal Documents for Sobha Parkcity
+          RERA, Approvals, and Legal Documents for Sobha Park City
         </h2>
 
         <div className="w-full h-px bg-gray-200 mb-6" />
@@ -24,11 +24,11 @@ export default function RERASection() {
               loading="lazy"
             />
   <p>
-    The legal status of Sobha Parkcity is an important consideration for homebuyers planning to purchase an apartment on Hennur Main Road in North Bangalore. Before making a booking or paying an Expression of Interest (EOI) amount, buyers should verify the project's RERA registration, applicable approvals, land title, and official development documents.
+    The legal status of Sobha Park City is an important consideration for homebuyers planning to purchase an apartment on Hennur Main Road in North Bangalore. Before making a booking or paying an Expression of Interest (EOI) amount, buyers should verify the project's RERA registration, applicable approvals, land title, and official development documents.
   </p>
 
   <p>
-    The available project information describes Sobha Parkcity as being at a pre-launch or EOI stage, but its current status has not been confirmed. The official RERA registration number is also unverified, so buyers should check the Karnataka Real Estate Regulatory Authority (K-RERA) records before proceeding.
+    The available project information describes Sobha Park City as being at a pre-launch or EOI stage, but its current status has not been confirmed. The official RERA registration number is also unverified, so buyers should check the Karnataka Real Estate Regulatory Authority (K-RERA) records before proceeding.
   </p>
 
   <p>
@@ -38,7 +38,7 @@ export default function RERASection() {
   <h3 className="text-xl font-bold">Applied or Awaited RERA Registration Number</h3>
 
   <p>
-    The official RERA registration status of Sobha Parkcity needs confirmation. Buyers should not assume that an application has been submitted or approved without checking the relevant official records.
+    The official RERA registration status of Sobha Park City needs confirmation. Buyers should not assume that an application has been submitted or approved without checking the relevant official records.
   </p>
 
   <p>Before booking an apartment, verify the following details:</p>
@@ -68,7 +68,7 @@ export default function RERASection() {
   <h3 className="text-xl font-bold">Approvals from Banks and Home Loan Partners</h3>
 
   <p>
-    Home loan eligibility for an apartment at Sobha Parkcity will depend on the lender's assessment of the project, the borrower's financial profile, and the property documentation. Buyers should confirm whether their preferred bank or housing finance company is willing to finance the specific project and unit.
+    Home loan eligibility for an apartment at Sobha Park City will depend on the lender's assessment of the project, the borrower's financial profile, and the property documentation. Buyers should confirm whether their preferred bank or housing finance company is willing to finance the specific project and unit.
   </p>
 
   <p>Before applying for a home loan, it is useful to check:</p>
@@ -96,7 +96,7 @@ export default function RERASection() {
   </p>
 
   <p>
-    <strong>Important:</strong> The RERA registration number, approval status, and current launch stage of Sobha Parkcity have not been independently verified here. Confirm these details through official records before paying any booking or EOI amount.
+    <strong>Important:</strong> The RERA registration number, approval status, and current launch stage of Sobha Park City have not been independently verified here. Confirm these details through official records before paying any booking or EOI amount.
   </p>
 </div>
       </div>

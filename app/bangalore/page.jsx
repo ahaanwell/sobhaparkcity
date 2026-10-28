@@ -21,7 +21,7 @@ export const metadata = buildMetadata({
     "Sobha Victoria Park Hennur Road",
     "Sobha apartments in Bengaluru",
     "Sobha plots near Malur",
-    "Sobha Parkcity Hennur Main Road",
+    "Sobha Park City Hennur Main Road",
   ],
   images: [{ ...IMAGES.banner, alt: DEFAULT_IMAGE_ALT }],
 });
@@ -70,10 +70,10 @@ const schema = pageSchema({
         },
         {
           "@type": "Question",
-          name: "Where can I find information about Sobha Parkcity?",
+          name: "Where can I find information about Sobha Park City?",
           acceptedAnswer: {
             "@type": "Answer",
-            text: "Sobha Parkcity is proposed on Hennur Main Road in North Bangalore. See the project overview, location, price and floor-plan pages on this website, and verify all current details with official documents.",
+            text: "Sobha Park City is proposed on Hennur Main Road in North Bangalore. See the project overview, location, price and floor-plan pages on this website, and verify all current details with official documents.",
           },
         },
         {

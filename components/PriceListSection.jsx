@@ -28,10 +28,10 @@ export default function PriceListSection() {
         <div className="w-full h-px bg-gray-200 mb-6" />
         <div className="space-y-6 text-gray-800 mb-6">
           <p>
-            <b>Sobha Parkcity</b> offers different apartment configurations designed to accommodate varying household sizes and space requirements. The available project information lists <b>1 BHK, 2 BHK, 3 BHK, and 4 BHK apartments</b>, with different super built-up areas and indicative <a href="https://www.sobhaparkcity.com/price"><b>starting prices</b></a>.
+            <b>Sobha Park City</b> offers different apartment configurations designed to accommodate varying household sizes and space requirements. The available project information lists <b>1 BHK, 2 BHK, 3 BHK, and 4 BHK apartments</b>, with different super built-up areas and indicative <a href="https://www.sobhaparkcity.com/price"><b>starting prices</b></a>.
           </p>
 
-          <h3 className="text-xl font-bold">Apartment Types and Price Table – Sobha Parkcity</h3>
+          <h3 className="text-xl font-bold">Apartment Types and Price Table – Sobha Park City</h3>
         </div>
 
         <div className="flex flex-col lg:flex-row gap-0">
@@ -82,14 +82,14 @@ export default function PriceListSection() {
             <img
               className="w-full"
               loading="lazy"
-              src="/images/costing-details.webp" alt="Sobha Parkcity price list and cost sheet, Hennur Main Road, Bangalore" />
+              src="/images/costing-details.webp" alt="Sobha Park City price list and cost sheet, Hennur Main Road, Bangalore" />
             <DownloadCostSheetActions />
           </div>
 
         </div>
         <div className="space-y-6 text-gray-800 mt-6">
   <p>
-    Sobha Parkcity is a planned residential apartment development by Sobha Group on Hennur Main Road in North Bangalore. The project information indicates a development spread across approximately 50 acres, with 12 residential towers. Its apartment configurations provide different options for buyers based on their preferred living space and budget.
+    Sobha Park City is a planned residential apartment development by Sobha Group on Hennur Main Road in North Bangalore. The project information indicates a development spread across approximately 50 acres, with 12 residential towers. Its apartment configurations provide different options for buyers based on their preferred living space and budget.
   </p>
 
   <p>
@@ -101,7 +101,7 @@ export default function PriceListSection() {
   </p>
 
   <p>
-    When comparing apartment options at Sobha Parkcity, buyers should consider both the super built-up area and the estimated carpet area. Super built-up area includes a proportionate share of common areas, whereas carpet area represents the usable floor area within the apartment, subject to the applicable definition. Reviewing the detailed floor plans can help buyers understand room dimensions, circulation space, and the practical usability of each configuration.
+    When comparing apartment options at Sobha Park City, buyers should consider both the super built-up area and the estimated carpet area. Super built-up area includes a proportionate share of common areas, whereas carpet area represents the usable floor area within the apartment, subject to the applicable definition. Reviewing the detailed floor plans can help buyers understand room dimensions, circulation space, and the practical usability of each configuration.
   </p>
 </div>
       </div>

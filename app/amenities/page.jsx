@@ -3,32 +3,32 @@ import { IMAGES, JsonLd, buildMetadata, pageSchema } from "@/lib/seo";
 import AmenitiesPage from "./AmenitiesPage";
 
 const PATH = "/amenities";
-const TITLE = "Sobha Parkcity Amenities | Hennur Main Road, Bangalore";
+const TITLE = "Sobha Park City Amenities | Hennur Main Road, Bangalore";
 const DESCRIPTION =
-  "Explore planned amenities at Sobha Parkcity on Hennur Main Road, North Bangalore. Review clubhouse, fitness, sports and family facilities; the final official list is awaited.";
+  "Explore planned amenities at Sobha Park City on Hennur Main Road, North Bangalore. Review clubhouse, fitness, sports and family facilities; the final official list is awaited.";
 
 export const metadata = buildMetadata({
   title: TITLE,
   description: DESCRIPTION,
   path: PATH,
   keywords: [
-    "Sobha Parkcity facilities list",
-    "Sobha Parkcity Hennur amenities",
-    "Sobha Parkcity clubhouse",
-    "Sobha Parkcity clubhouse size",
-    "Sobha Parkcity lifestyle amenities",
-    "Sobha Parkcity sports facilities",
-    "Sobha Parkcity kids play area",
-    "Sobha Parkcity landscaped open space",
+    "Sobha Park City facilities list",
+    "Sobha Park City Hennur amenities",
+    "Sobha Park City clubhouse",
+    "Sobha Park City clubhouse size",
+    "Sobha Park City lifestyle amenities",
+    "Sobha Park City sports facilities",
+    "Sobha Park City kids play area",
+    "Sobha Park City landscaped open space",
     "Sobha Hennur clubhouse",
     "gated community facilities Hennur Bangalore",
   ],
-  images: [{ ...IMAGES.amenities, alt: "Lifestyle facilities at Sobha Parkcity, Hennur Main Road, Bangalore" }],
+  images: [{ ...IMAGES.amenities, alt: "Lifestyle facilities at Sobha Park City, Hennur Main Road, Bangalore" }],
 });
 
 const FAQS = [
-  ["Which facilities will Sobha Parkcity have?", "The developer has not yet published the final amenity list. Expect categories such as a clubhouse, fitness and wellness areas, sports courts, children's play zones, landscaped gardens and security systems, to be confirmed in the official brochure."],
-  ["Is there a clubhouse at Sobha Parkcity?", "A clubhouse is expected for a community of this size, but its size and facilities will only be known once the approved amenity plan is released."],
+  ["Which facilities will Sobha Park City have?", "The developer has not yet published the final amenity list. Expect categories such as a clubhouse, fitness and wellness areas, sports courts, children's play zones, landscaped gardens and security systems, to be confirmed in the official brochure."],
+  ["Is there a clubhouse at Sobha Park City?", "A clubhouse is expected for a community of this size, but its size and facilities will only be known once the approved amenity plan is released."],
   ["How many homes will share the amenities?", "Close to 1,400 apartments (tentative) are planned on about 25 acres, so it is worth checking whether facilities are sized for that many residents."],
   ["Will amenities be ready at possession?", "Handover is proposed for December 2031. Ask the developer which amenities will be operational at possession and whether any carry extra charges."],
 ];

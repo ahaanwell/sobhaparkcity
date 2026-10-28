@@ -24,7 +24,7 @@ export default function ApartmentSection() {
               loading="lazy"
             />
   <p>
-    Hennur is a residential area in North Bangalore where buyers can compare apartments of different sizes, layouts, and price points. For a project such as Sobha Parkcity, the key considerations include access to daily services, apartment planning, transport connections, and the organisation of shared facilities.
+    Hennur is a residential area in North Bangalore where buyers can compare apartments of different sizes, layouts, and price points. For a project such as Sobha Park City, the key considerations include access to daily services, apartment planning, transport connections, and the organisation of shared facilities.
   </p>
 
   <h3 className="text-xl font-bold">Space for Large Residential Developments</h3>
@@ -80,11 +80,11 @@ export default function ApartmentSection() {
   <h3 className="text-xl font-bold">Suitability for Premium High-Rise Housing</h3>
 
   <p>
-    Sobha Parkcity is described as a high-rise residential development with multiple apartment configurations and shared facilities. Buyers considering this type of housing should examine lift capacity, parking provisions, tower spacing, fire safety arrangements, and the management of common areas.
+    Sobha Park City is described as a high-rise residential development with multiple apartment configurations and shared facilities. Buyers considering this type of housing should examine lift capacity, parking provisions, tower spacing, fire safety arrangements, and the management of common areas.
   </p>
 
   <p>
-    The final decision should also account for the project's verified RERA status, applicable approvals, possession schedule, and complete purchase cost. Reviewing these details alongside the location and floor plans can help homebuyers and investors make a more informed assessment of Sobha Parkcity.
+    The final decision should also account for the project's verified RERA status, applicable approvals, possession schedule, and complete purchase cost. Reviewing these details alongside the location and floor plans can help homebuyers and investors make a more informed assessment of Sobha Park City.
   </p>
 </div>
       </div>

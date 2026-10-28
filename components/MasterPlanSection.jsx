@@ -15,13 +15,13 @@ export default function MasterPlanSection() {
           id="master-plan-heading"
           className="text-xl md:text-2xl font-semibold text-gray-900 text-center mb-2"
         >
-          Sobha Parkcity Master Plan
+          Sobha Park City Master Plan
         </h2>
 
         <div className="w-full h-px bg-gray-200 mb-6" />
         <div className="space-y-6 text-gray-800 mb-6">
   <p>
-    The <a href="https://www.sobhaparkcity.com/master-plan"><strong>Sobha Parkcity master plan</strong></a> is described as covering approximately <b>50 acres</b> on Hennur Main Road in North Bangalore. The project information lists <b>12 residential towers</b> and approximately <b>4,400 or more apartments</b>.
+    The <a href="https://www.sobhaparkcity.com/master-plan"><strong>Sobha Park City master plan</strong></a> is described as covering approximately <b>50 acres</b> on Hennur Main Road in North Bangalore. The project information lists <b>12 residential towers</b> and approximately <b>4,400 or more apartments</b>.
   </p>
 
   <p>
@@ -35,7 +35,7 @@ export default function MasterPlanSection() {
           >
             <img
               src="./images/master-plan.webp"
-              alt="Sobha Parkcity master plan"
+              alt="Sobha Park City master plan"
               className="w-full h-full object-cover"
               loading="lazy"
             />
@@ -48,12 +48,12 @@ export default function MasterPlanSection() {
           </div>
         </div>
         <div className="space-y-6 text-gray-800 mt-6">
-  <h2 className="text-2xl font-bold">Below Are the Key Master Plan Specifications of Sobha Parkcity</h2>
+  <h2 className="text-2xl font-bold">Below Are the Key Master Plan Specifications of Sobha Park City</h2>
 
   <h3 className="text-xl font-bold">Total Land Area</h3>
 
   <p>
-    Sobha Parkcity is reported to cover approximately 50 acres. The overall site area provides the framework for arranging residential towers, internal roads, shared facilities, and landscaped spaces.
+    Sobha Park City is reported to cover approximately 50 acres. The overall site area provides the framework for arranging residential towers, internal roads, shared facilities, and landscaped spaces.
   </p>
 
   <p>
@@ -83,7 +83,7 @@ export default function MasterPlanSection() {
   <h3 className="text-xl font-bold">Total Number of Apartments</h3>
 
   <p>
-    Sobha Parkcity is reported to include approximately 4,400+ apartments. The number of homes makes the planning of entry points, lifts, parking, and internal movement important aspects of the development.
+    Sobha Park City is reported to include approximately 4,400+ apartments. The number of homes makes the planning of entry points, lifts, parking, and internal movement important aspects of the development.
   </p>
 
   <p>
@@ -133,7 +133,7 @@ export default function MasterPlanSection() {
   <h3 className="text-xl font-bold">Security and Access</h3>
 
   <p>
-    The layout of entrance gates, visitor access points, and internal circulation routes can affect how residents and visitors enter and move through the property. However, the specific security arrangements for Sobha Parkcity should be confirmed with the developer.
+    The layout of entrance gates, visitor access points, and internal circulation routes can affect how residents and visitors enter and move through the property. However, the specific security arrangements for Sobha Park City should be confirmed with the developer.
   </p>
 
   <p>
@@ -141,7 +141,7 @@ export default function MasterPlanSection() {
   </p>
 
   <p>
-    Overall, the Sobha Parkcity master plan and floor plans should be evaluated together. The master plan explains the arrangement of towers and shared spaces, while the apartment floor plans show how individual homes are organised. Reviewing both can help buyers make a more informed comparison of the available configurations.
+    Overall, the Sobha Park City master plan and floor plans should be evaluated together. The master plan explains the arrangement of towers and shared spaces, while the apartment floor plans show how individual homes are organised. Reviewing both can help buyers make a more informed comparison of the available configurations.
   </p>
 </div>
       </div>

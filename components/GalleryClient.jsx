@@ -3,14 +3,14 @@ import { useState } from "react";
 import { FaTimes, FaChevronLeft, FaChevronRight, FaExpand } from "react-icons/fa";
 
 const galleryImages = [
-  { id: 1,  src: "./images/banners/sobhaparkcity.webp",  alt: "Sobha Parkcity" },
-  { id: 2,  src: "./images/banners/sobha-parkcity.webp",  alt: "Sobha Parkcity" },
-  { id: 3,  src: "./images/banners/sobha-park-city.webp",  alt: "Sobha Parkcity" },
-  { id: 4,  src: "./images/gallery/image1.webp",  alt: "Sobha Parkcity" },
-  { id: 5,  src: "./images/gallery/image2.webp",  alt: "Sobha Parkcity" },
-  { id: 6,  src: "./images/gallery/image3.webp",  alt: "Sobha Parkcity" },
-  { id: 7,  src: "./images/gallery/image4.webp",  alt: "Sobha Parkcity" },
-  { id: 8,  src: "./images/gallery/image5.webp",  alt: "Sobha Parkcity" },
+  { id: 1,  src: "./images/banners/sobhaparkcity.webp",  alt: "Sobha Park City" },
+  { id: 2,  src: "./images/banners/sobha-parkcity.webp",  alt: "Sobha Park City" },
+  { id: 3,  src: "./images/banners/sobha-park-city.webp",  alt: "Sobha Park City" },
+  { id: 4,  src: "./images/gallery/image1.webp",  alt: "Sobha Park City" },
+  { id: 5,  src: "./images/gallery/image2.webp",  alt: "Sobha Park City" },
+  { id: 6,  src: "./images/gallery/image3.webp",  alt: "Sobha Park City" },
+  { id: 7,  src: "./images/gallery/image4.webp",  alt: "Sobha Park City" },
+  { id: 8,  src: "./images/gallery/image5.webp",  alt: "Sobha Park City" },
 ];
 
 export default function GalleryCleint() {
@@ -35,7 +35,7 @@ export default function GalleryCleint() {
     <>
         <div
           className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 md:gap-4"
-          aria-label="Sobha Parkcity project gallery"
+          aria-label="Sobha Park City project gallery"
         >
           {galleryImages.map((img, index) => (
             <div

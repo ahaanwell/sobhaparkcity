@@ -54,7 +54,7 @@ export default function LeadModal({
       number,
       country_code: countryCode,
       company_email: "info@searchmyspace.in",
-      project_name: "Sobha Parkcity",
+      project_name: "Sobha Park City",
     };
 
     try {

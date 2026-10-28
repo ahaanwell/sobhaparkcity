@@ -89,12 +89,12 @@ export default function ProjectHighlights() {
           id="highlights-heading"
           className="text-xl md:text-2xl font-semibold text-gray-900 text-center mb-2"
         >
-          Sobha Parkcity – Project Overview
+          Sobha Park City – Project Overview
         </h2>
         <div className="w-full h-px bg-gray-200 mb-6" />
         <div className="space-y-6 text-gray-800 mb-6">
   <p>
-    <a href="https://www.sobhaparkcity.com"><strong>Sobha Parkcity</strong></a> is a residential apartment project associated with <strong>Sobha Group</strong>, located on <strong>Hennur Main Road</strong> in North Bangalore. The project is planned to offer <strong>1, 2, 3 and 4 BHK</strong> apartments within a large residential development, with an emphasis on apartment layouts, shared facilities, and open spaces.
+    <a href="https://www.sobhaparkcity.com"><strong>Sobha Park City</strong></a> is a residential apartment project associated with <strong>Sobha Group</strong>, located on <strong>Hennur Main Road</strong> in North Bangalore. The project is planned to offer <strong>1, 2, 3 and 4 BHK</strong> apartments within a large residential development, with an emphasis on apartment layouts, shared facilities, and open spaces.
   </p>
 
   <p>
@@ -102,7 +102,7 @@ export default function ProjectHighlights() {
   </p>
 
   <p>
-    Sobha Parkcity offers planned <b>1, 2, 3 and 4 BHK apartments</b>, with reported super built-up areas ranging from <b>721 sq. ft. to 2,500 sq. ft.</b> The different configurations cater to varying space requirements, from smaller households to families seeking additional bedrooms and living areas. Actual carpet areas and final unit specifications should be confirmed through the approved floor plans.
+    Sobha Park City offers planned <b>1, 2, 3 and 4 BHK apartments</b>, with reported super built-up areas ranging from <b>721 sq. ft. to 2,500 sq. ft.</b> The different configurations cater to varying space requirements, from smaller households to families seeking additional bedrooms and living areas. Actual carpet areas and final unit specifications should be confirmed through the approved floor plans.
   </p>
 
   <p>
@@ -110,12 +110,12 @@ export default function ProjectHighlights() {
   </p>
 
   <p>
-    Located on <strong>Hennur Main Road, Sobha Parkcity is located in North Bangalore,</strong> where residential development and access to everyday services are relevant considerations for homebuyers. Before making a purchase decision, buyers should confirm the project's current launch status, applicable approvals, <strong>RERA registration,</strong> pricing, and possession schedule through official documentation.
+    Located on <strong>Hennur Main Road, Sobha Park City is located in North Bangalore,</strong> where residential development and access to everyday services are relevant considerations for homebuyers. Before making a purchase decision, buyers should confirm the project's current launch status, applicable approvals, <strong>RERA registration,</strong> pricing, and possession schedule through official documentation.
   </p>
 </div>
         <div
           className="grid grid-cols-2 lg:grid-cols-4 gap-4"
-          aria-label="Sobha Parkcity project highlights"
+          aria-label="Sobha Park City project highlights"
         >
           {highlights.map((item, index) => (
             <div
@@ -138,7 +138,7 @@ export default function ProjectHighlights() {
           ))}
         </div>
         <div className="space-y-6 text-gray-800 mt-6">
-  <h2 className="text-2xl font-bold">Sobha Parkcity Project Highlights</h2>
+  <h2 className="text-2xl font-bold">Sobha Park City Project Highlights</h2>
 
   <div className="overflow-x-auto">
     <table className="w-full border-collapse border border-gray-300">
@@ -151,7 +151,7 @@ export default function ProjectHighlights() {
       <tbody>
         <tr>
           <td className="border border-gray-300 p-3">Project Name</td>
-          <td className="border border-gray-300 p-3">Sobha Parkcity</td>
+          <td className="border border-gray-300 p-3">Sobha Park City</td>
         </tr>
         <tr>
           <td className="border border-gray-300 p-3">Developer</td>
@@ -217,12 +217,12 @@ export default function ProjectHighlights() {
     </table>
   </div>
 
-  <h2 className="text-2xl font-bold">Sobha Parkcity's Key Highlights and Planning Features</h2>
+  <h2 className="text-2xl font-bold">Sobha Park City's Key Highlights and Planning Features</h2>
 
   <h3 className="text-xl font-bold">Prime Location on Hennur Main Road</h3>
 
   <p>
-    Sobha Parkcity is located on <strong>Hennur Main Road in North Bangalore</strong>. The location is a key consideration for buyers assessing daily travel, access to essential services, and connectivity with other parts of the city.
+    Sobha Park City is located on <strong>Hennur Main Road in North Bangalore</strong>. The location is a key consideration for buyers assessing daily travel, access to essential services, and connectivity with other parts of the city.
   </p>
 
   <p>
@@ -262,7 +262,7 @@ export default function ProjectHighlights() {
   <h3 className="text-xl font-bold">Approximately 4,400+ Residential Apartments</h3>
 
   <p>
-    <strong>Sobha Parkcity</strong> is described as a large residential development with approximately 4,400 or more apartments across 12 towers. The planned scale of the project makes the arrangement of residential buildings, internal circulation, and shared facilities important aspects of the overall layout.
+    <strong>Sobha Park City</strong> is described as a large residential development with approximately 4,400 or more apartments across 12 towers. The planned scale of the project makes the arrangement of residential buildings, internal circulation, and shared facilities important aspects of the overall layout.
   </p>
 
   <h3 className="text-xl font-bold">Multiple Apartment Configurations</h3>
@@ -280,7 +280,7 @@ export default function ProjectHighlights() {
   <h3 className="text-xl font-bold">Green and Open Spaces</h3>
 
   <p>
-    Sobha Parkcity's website states that approximately 80% of the project area is open space. The master plan will help buyers understand how landscaped areas, walking spaces, residential towers, and common facilities are distributed throughout the development. The approved layout should be checked to clarify the extent and accessibility of these open areas.
+    Sobha Park City's website states that approximately 80% of the project area is open space. The master plan will help buyers understand how landscaped areas, walking spaces, residential towers, and common facilities are distributed throughout the development. The approved layout should be checked to clarify the extent and accessibility of these open areas.
   </p>
 
   <h3 className="text-xl font-bold">High-Rise Residential Living</h3>
@@ -292,7 +292,7 @@ export default function ProjectHighlights() {
   <h3 className="text-xl font-bold">Location in North Bangalore</h3>
 
   <p>
-    Located on Hennur Main Road, Sobha Parkcity is situated in North Bangalore. Buyers can evaluate the location based on their daily commuting routes, access to schools and healthcare facilities, and proximity to essential services. Actual travel times should be checked for the specific destinations they visit regularly.
+    Located on Hennur Main Road, Sobha Park City is situated in North Bangalore. Buyers can evaluate the location based on their daily commuting routes, access to schools and healthcare facilities, and proximity to essential services. Actual travel times should be checked for the specific destinations they visit regularly.
   </p>
 
   <h3 className="text-xl font-bold">Apartment Layouts and Construction Details</h3>
@@ -305,7 +305,7 @@ export default function ProjectHighlights() {
   <h2 className="text-2xl font-bold">About the Project</h2>
 
   <p>
-    <strong>Sobha Parkcity</strong> is described as a residential apartment development by Sobha Group on <strong>Hennur Main Road in North Bangalore</strong>. The project information indicates a planned development spread across approximately 50 acres, featuring 12 residential towers and more than 4,400 apartments.
+    <strong>Sobha Park City</strong> is described as a residential apartment development by Sobha Group on <strong>Hennur Main Road in North Bangalore</strong>. The project information indicates a planned development spread across approximately 50 acres, featuring 12 residential towers and more than 4,400 apartments.
   </p>
 
   <p>
@@ -342,11 +342,11 @@ export default function ProjectHighlights() {
   <h2 className="text-2xl font-bold">Customer Ratings and Reviews</h2>
 
   <p>
-    Sobha Parkcity is a proposed residential apartment development by Sobha Group on Hennur Main Road in North Bangalore. The project information describes a development spread across approximately 50 acres, with 12 residential towers and more than 4,400 apartments. These details provide a starting point for evaluating the project's scale, apartment options, and planned community layout.
+    Sobha Park City is a proposed residential apartment development by Sobha Group on Hennur Main Road in North Bangalore. The project information describes a development spread across approximately 50 acres, with 12 residential towers and more than 4,400 apartments. These details provide a starting point for evaluating the project's scale, apartment options, and planned community layout.
   </p>
 
   <p>
-    When reviewing Sobha Parkcity, prospective buyers should consider factors such as the location, apartment configuration, usable floor area, tower arrangement, and proposed amenities. The project information lists 1 BHK, 2 BHK, 3 BHK, and 4 BHK apartments, allowing buyers to compare different layouts based on their household size and space requirements.
+    When reviewing Sobha Park City, prospective buyers should consider factors such as the location, apartment configuration, usable floor area, tower arrangement, and proposed amenities. The project information lists 1 BHK, 2 BHK, 3 BHK, and 4 BHK apartments, allowing buyers to compare different layouts based on their household size and space requirements.
   </p>
 
   <p>
@@ -361,7 +361,7 @@ export default function ProjectHighlights() {
   <h2 className="text-2xl font-bold">RERA Approval</h2>
 
   <p>
-    The official RERA registration status of Sobha Parkcity needs to be verified before booking. The available project information does not establish a confirmed registration number, so buyers should check the <a href="https://rera.karnataka.gov.in/home" rel="nofollow noopener noreferrer"><b>Karnataka Real Estate Regulatory Authority's official</b></a> records for the project's registration details.
+    The official RERA registration status of Sobha Park City needs to be verified before booking. The available project information does not establish a confirmed registration number, so buyers should check the <a href="https://rera.karnataka.gov.in/home" rel="nofollow noopener noreferrer"><b>Karnataka Real Estate Regulatory Authority's official</b></a> records for the project's registration details.
   </p>
 
   <p>
@@ -373,10 +373,10 @@ export default function ProjectHighlights() {
   </p>
 </div>
 <div className="space-y-6 text-gray-800 mt-6">
-  <h2 className="text-2xl font-bold">Expression of Interest (EOI) Charges for Sobha Parkcity</h2>
+  <h2 className="text-2xl font-bold">Expression of Interest (EOI) Charges for Sobha Park City</h2>
 
   <p>
-    The available information describes Sobha Parkcity as being at a pre-launch or Expression of Interest (EOI) stage, although its current status requires confirmation. No verified EOI amount or official payment schedule has been provided for the project.
+    The available information describes Sobha Park City as being at a pre-launch or Expression of Interest (EOI) stage, although its current status requires confirmation. No verified EOI amount or official payment schedule has been provided for the project.
   </p>
 
   <p>
@@ -384,7 +384,7 @@ export default function ProjectHighlights() {
   </p>
 
   <p>
-    Before submitting an EOI for Sobha Parkcity, buyers should obtain written confirmation of the following:
+    Before submitting an EOI for Sobha Park City, buyers should obtain written confirmation of the following:
   </p>
 
   <ul className="list-disc space-y-2 pl-6">
@@ -406,7 +406,7 @@ export default function ProjectHighlights() {
   </ul>
 
   <p>
-    The final apartment prices, booking conditions, and construction-linked payment plan should be obtained directly from the developer or an authorised representative. Buyers should not rely on assumed EOI amounts or standard payment percentages without written confirmation specific to Sobha Parkcity.
+    The final apartment prices, booking conditions, and construction-linked payment plan should be obtained directly from the developer or an authorised representative. Buyers should not rely on assumed EOI amounts or standard payment percentages without written confirmation specific to Sobha Park City.
   </p>
 </div>
       </div>

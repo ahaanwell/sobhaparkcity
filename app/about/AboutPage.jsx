@@ -16,14 +16,14 @@ const projectDetails = [
 export default function AboutPage() {
   return (
     <main className="w-full bg-white px-4 md:px-0">
-      <PageHero title="About Sobha Parkcity" />
+      <PageHero title="About Sobha Park City" />
       <article className="max-w-5xl mx-auto py-10 text-gray-800">
         <header className="mb-8">
           <h1 className="text-2xl md:text-3xl font-bold text-gray-900 text-center">
-            About Sobha Parkcity on Hennur Main Road
+            About Sobha Park City on Hennur Main Road
           </h1>
           <p className="mt-5 leading-7">
-            <IntLink href="/"><strong>Sobha Parkcity</strong></IntLink> is a
+            <IntLink href="/"><strong>Sobha Park City</strong></IntLink> is a
             proposed apartment development associated in available project
             information with <strong>Sobha Limited</strong>. It is located on{" "}
             <strong>Hennur Main Road in North Bangalore</strong> and is
@@ -38,7 +38,7 @@ export default function AboutPage() {
 
         <section aria-labelledby="about-overview" className="mb-10">
           <h2 id="about-overview" className="text-xl md:text-2xl font-semibold mb-4">
-            Sobha Parkcity project overview
+            Sobha Park City project overview
           </h2>
           <p className="mb-5 leading-7">
             The project information describes a site of{" "}
@@ -50,7 +50,7 @@ export default function AboutPage() {
             figures provide a broad picture of the proposed development,
             rather than a substitute for approved plans. Refer to the{" "}
             <IntLink href="/master-plan">
-              <strong>Sobha Parkcity master plan</strong>
+              <strong>Sobha Park City master plan</strong>
             </IntLink>{" "}
             and request the latest sanctioned documents to check the final
             layout, unit count and building specifications.
@@ -109,7 +109,7 @@ export default function AboutPage() {
             conditions to work, schools, hospitals and shopping destinations
             at the times you expect to use them. The{" "}
             <IntLink href="/location">
-              <strong>Sobha Parkcity location guide</strong>
+              <strong>Sobha Park City location guide</strong>
             </IntLink>{" "}
             can help with initial research. You can also review reported{" "}
             <IntLink href="/amenities"><strong>amenities</strong></IntLink>,
@@ -125,7 +125,7 @@ export default function AboutPage() {
           <p className="leading-7">
             Available project details identify{" "}
             <strong>Sobha Limited</strong> as the developer associated with{" "}
-            <strong>Sobha Parkcity</strong>. For background on the company,
+            <strong>Sobha Park City</strong>. For background on the company,
             visit the{" "}
             <ExtLink href="https://www.sobha.com/">official Sobha website</ExtLink>.
             Separately confirm the promoter name and responsibilities stated
@@ -161,7 +161,7 @@ export default function AboutPage() {
 
         <section aria-labelledby="about-next-steps" className="mb-8">
           <h2 id="about-next-steps" className="text-xl md:text-2xl font-semibold mb-4">
-            Reviewing Sobha Parkcity before you decide
+            Reviewing Sobha Park City before you decide
           </h2>
           <p className="leading-7">
             Compare the <strong>apartment plan, complete purchase cost, daily

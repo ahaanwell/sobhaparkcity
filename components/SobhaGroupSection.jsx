@@ -32,7 +32,7 @@ export default function  SobhaGroupSection() {
   </p>
 
   <p>
-    With decades of experience in the property sector, Sobha Limited continues to focus on construction standards, customer satisfaction and innovation. Its developments are designed to address the needs of modern families while considering long-term usability and residential appeal. For buyers exploring <strong>Sobha Parkcity</strong>, understanding the developer's background, construction approach and previous projects can help when assessing the proposed development.
+    With decades of experience in the property sector, Sobha Limited continues to focus on construction standards, customer satisfaction and innovation. Its developments are designed to address the needs of modern families while considering long-term usability and residential appeal. For buyers exploring <strong>Sobha Park City</strong>, understanding the developer's background, construction approach and previous projects can help when assessing the proposed development.
   </p>
 
   <h3 className="text-xl font-bold">Why Homebuyers Consider Sobha Limited</h3>
@@ -98,7 +98,7 @@ export default function  SobhaGroupSection() {
   </p>
 
   <p>
-    For anyone considering <strong>Sobha Parkcity</strong>, it is important to assess the proposed project's location, apartment plans, amenities, pricing, construction progress and regulatory status individually. The developer's experience can provide useful context, but buyers should independently verify project-specific information, including RERA registration and possession timelines, before making a final decision.
+    For anyone considering <strong>Sobha Park City</strong>, it is important to assess the proposed project's location, apartment plans, amenities, pricing, construction progress and regulatory status individually. The developer's experience can provide useful context, but buyers should independently verify project-specific information, including RERA registration and possession timelines, before making a final decision.
   </p>
 </div>
       </div>

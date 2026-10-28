@@ -37,12 +37,12 @@ export default function AmenitiesSection() {
         <div className="w-full h-px bg-gray-200 mb-6" />
         <div className="space-y-6 text-gray-800 mb-6">
   <p>
-    Sobha Parkcity is described as a residential development on Hennur Main Road in North Bangalore, with planned shared facilities for recreation, fitness, and everyday convenience. The available project information refers to more than 40 amenities and a clubhouse of approximately 50,000 sq. ft. The final amenity list and specifications should be confirmed through official project documents.
+    Sobha Park City is described as a residential development on Hennur Main Road in North Bangalore, with planned shared facilities for recreation, fitness, and everyday convenience. The available project information refers to more than 40 amenities and a clubhouse of approximately 50,000 sq. ft. The final amenity list and specifications should be confirmed through official project documents.
   </p>
 </div>
         <ul
           className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3 lg:gap-4"
-          aria-label="Sobha Parkcity amenities"
+          aria-label="Sobha Park City amenities"
         >
           {amenitiesData.map((item) => (
             <li
@@ -109,7 +109,7 @@ export default function AmenitiesSection() {
   <h3 className="text-xl font-bold">Family and Kids Amenities</h3>
 
   <p>
-    Shared spaces designed for families can support outdoor activities and community interaction. However, the specific family and children's facilities planned for Sobha Parkcity should be confirmed before booking.
+    Shared spaces designed for families can support outdoor activities and community interaction. However, the specific family and children's facilities planned for Sobha Park City should be confirmed before booking.
   </p>
 
   <p>Possible features to check in the official plan include:</p>

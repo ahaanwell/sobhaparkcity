@@ -13,11 +13,11 @@ const reminders = [
 export default function DisclaimerPage() {
   return (
     <main className="w-full bg-white px-4 md:px-0">
-      <PageHero title="Sobha Parkcity Disclaimer" />
+      <PageHero title="Sobha Park City Disclaimer" />
       <article className="max-w-5xl mx-auto py-10 text-gray-800">
         <header className="mb-8">
           <h1 className="text-2xl md:text-3xl font-bold text-gray-900 text-center">
-            Sobha Parkcity Project Information Disclaimer
+            Sobha Park City Project Information Disclaimer
           </h1>
           <p className="mt-2 text-sm text-gray-600 text-center">
             Last updated: {LAST_UPDATED}
@@ -25,7 +25,7 @@ export default function DisclaimerPage() {
           <p className="mt-5 leading-7">
             This disclaimer explains how to use the information on{" "}
             <IntLink href="/"><strong>SobhaParkcity.com</strong></IntLink>, an
-            independent website about the proposed <strong>Sobha Parkcity</strong>{" "}
+            independent website about the proposed <strong>Sobha Park City</strong>{" "}
             residential development on <strong>Hennur Main Road, North
             Bangalore</strong>. It applies to project descriptions, reported
             prices, apartment details, images, location information and
@@ -70,7 +70,7 @@ export default function DisclaimerPage() {
             Reported project details may change
           </h2>
           <p className="mb-4 leading-7">
-            This website describes Sobha Parkcity as a proposed apartment
+            This website describes Sobha Park City as a proposed apartment
             development on Hennur Main Road. Project information presented here
             includes a site area of approximately <strong>50 acres</strong>,
             more than <strong>4,400 apartments</strong>, configurations from{" "}

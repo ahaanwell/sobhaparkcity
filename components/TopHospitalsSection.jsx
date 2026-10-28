@@ -12,7 +12,7 @@ export default function TopHospitalsSection() {
           id="top-hospitals-heading"
           className="text-xl md:text-2xl font-semibold text-gray-900 text-center mb-2"
         >
-          Top Hospitals Near Sobha Parkcity
+          Top Hospitals Near Sobha Park City
         </h2>
 
         <div className="w-full h-px bg-gray-200 mb-6" />
@@ -24,17 +24,17 @@ export default function TopHospitalsSection() {
               loading="lazy"
             />
   <p>
-    Sobha Parkcity is an upcoming residential project on Hennur Main Road in North Bangalore. For families considering this location, access to hospitals, diagnostic centres, maternity facilities, and emergency services is an important part of planning everyday life.
+    Sobha Park City is an upcoming residential project on Hennur Main Road in North Bangalore. For families considering this location, access to hospitals, diagnostic centres, maternity facilities, and emergency services is an important part of planning everyday life.
   </p>
 
   <p>
     The Hennur, Kothanur, and Byrathi areas have several healthcare facilities, while larger hospitals are available in nearby parts of North Bengaluru, including Hebbal. The right option depends on the type of care required, available specialists, emergency services, and travel time from home.
   </p>
 
-  <h2 className="text-2xl font-bold">Top 10 Hospitals Near Sobha Parkcity</h2>
+  <h2 className="text-2xl font-bold">Top 10 Hospitals Near Sobha Park City</h2>
 
   <p>
-    The following list includes hospitals and healthcare centres in and around Hennur Main Road. Distances and travel times are approximate planning estimates for the locality, not verified route measurements from Sobha Parkcity's exact entrance.
+    The following list includes hospitals and healthcare centres in and around Hennur Main Road. Distances and travel times are approximate planning estimates for the locality, not verified route measurements from Sobha Park City's exact entrance.
   </p>
 
   <div className="overflow-x-auto">
@@ -43,7 +43,7 @@ export default function TopHospitalsSection() {
         <tr className="bg-gray-100">
           <th className="border border-gray-300 p-3 text-left">Hospital / Healthcare Centre</th>
           <th className="border border-gray-300 p-3 text-left">Key Services / Focus</th>
-          <th className="border border-gray-300 p-3 text-left">Approx. Distance from Sobha Parkcity</th>
+          <th className="border border-gray-300 p-3 text-left">Approx. Distance from Sobha Park City</th>
           <th className="border border-gray-300 p-3 text-left">Approx. Travel Time</th>
         </tr>
       </thead>

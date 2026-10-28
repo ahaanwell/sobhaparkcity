@@ -35,7 +35,7 @@ export default function Header() {
             <Link href="/" className="flex items-center gap-2">
               <img
                 src="/images/logo.webp"
-                alt="Sobha Parkcity"
+                alt="Sobha Park City"
                 className="h-12 w-auto"
               />
             </Link>

@@ -2,22 +2,22 @@ import { JsonLd, buildMetadata, pageSchema } from "@/lib/seo";
 import ContactPage from "./ContactPage";
 
 const PATH = "/contact";
-const TITLE = "Contact Sobha Parkcity | Hennur Project Enquiries";
+const TITLE = "Contact Sobha Park City | Hennur Project Enquiries";
 const DESCRIPTION =
-  "Contact us with questions about Sobha Parkcity on Hennur Main Road, North Bangalore. Call or WhatsApp to ask about reported prices, apartment plans and available project information.";
+  "Contact us with questions about Sobha Park City on Hennur Main Road, North Bangalore. Call or WhatsApp to ask about reported prices, apartment plans and available project information.";
 
 export const metadata = buildMetadata({
   title: TITLE,
   description: DESCRIPTION,
   path: PATH,
   keywords: [
-    "Sobha Parkcity contact",
-    "Sobha Parkcity Hennur contact",
-    "Sobha Parkcity project enquiry",
-    "Sobha Parkcity phone and WhatsApp",
-    "Sobha Parkcity price enquiry",
-    "Sobha Parkcity floor plan enquiry",
-    "Sobha Parkcity site visit information",
+    "Sobha Park City contact",
+    "Sobha Park City Hennur contact",
+    "Sobha Park City project enquiry",
+    "Sobha Park City phone and WhatsApp",
+    "Sobha Park City price enquiry",
+    "Sobha Park City floor plan enquiry",
+    "Sobha Park City site visit information",
   ],
 });
 
