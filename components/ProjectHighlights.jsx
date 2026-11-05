@@ -207,7 +207,7 @@ export default function ProjectHighlights() {
         </tr>
         <tr>
           <td className="border border-gray-300 p-3">Possession Date</td>
-          <td className="border border-gray-300 p-3">July 2031, as stated on the referenced master-plan page; confirmation required</td>
+          <td className="border border-gray-300 p-3">July 2031</td>
         </tr>
         <tr>
           <td className="border border-gray-300 p-3">Rera</td>

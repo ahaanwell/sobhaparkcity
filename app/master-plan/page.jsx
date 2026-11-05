@@ -3,9 +3,9 @@ import { IMAGES, JsonLd, buildMetadata, pageSchema } from "@/lib/seo";
 import MasterPlanPage from "./MasterPlanPage";
 
 const PATH = "/master-plan";
-const TITLE = "Sobha Park City Master Plan | 50-Acre Hennur Development";
+const TITLE = "Sobha Park City Master Plan | 50 Acres Township Layout";
 const DESCRIPTION =
-  "Explore the reported Sobha Park City master plan on Hennur Main Road, North Bangalore, including its 50-acre site, 12 residential towers and 4,400+ proposed apartments. Verify the approved layout and specifications.";
+  "Explore Sobha Park City Master Plan with 12 towers, 24 wings, 80% open space, 4,000+ apartments, clubhouse, landscaped gardens and township amenities.";
 
 export const metadata = buildMetadata({
   title: TITLE,
@@ -26,12 +26,20 @@ export const metadata = buildMetadata({
 });
 
 const FAQS = [
-  ["Where is the Sobha Park City master plan for?", "It relates to the proposed Sobha Park City township on Hennur Main Road in North Bangalore. Confirm the project boundary and address using current official documents."],
-  ["How large is the proposed Sobha Park City development?", "The supplied project information describes a site of approximately 50 acres. Verify the final area and land use in the approved master plan."],
-  ["How many blocks, wings and apartments are planned?", "The project is described as having 12 blocks, 24 wings and around 4,463 apartments. These are proposed figures and should be confirmed against approved project disclosures."],
-  ["What floor structure is planned at Sobha Park City?", "The supplied floor structure is 3 basements + ground + 42 floors. Check the latest sanctioned plans for confirmation."],
-  ["Is the Sobha Park City master plan final?", "A verified final approved master plan has not been confirmed in the project information available here. Request the latest plan and check it against applicable approvals before relying on it."],
-  ["What should buyers review in a master plan?", "Review tower locations and spacing, project access, internal roads, pedestrian routes, open areas, amenity locations and the relationship of the selected apartment to shared spaces. Confirm these details in the approved plan."],
+  ["What is the total area of Sobha Park City?", "Sobha Park City is planned across 50 acres on Hennur Main Road in North Bangalore. The township includes 12 residential towers and blocks, 24 wings and more than 4,000 apartments."],
+  ["How many residential towers are included in the master plan?", "The development comprises 12 residential towers and blocks divided into 24 wings. Each tower is planned with three basement levels, a ground floor and 42 upper floors."],
+  ["What is the total number of apartments in Sobha Park City?", "More than 4,000 residential apartments are planned across the 50-acre township."],
+  ["How much of the township is allocated to open space?", "Approximately 80% of the project area is planned as open space. The landscape features also include more than 1,000 native trees, gardens and outdoor lawns."],
+  ["What are the main features of the Sobha Park City master plan?", "The master plan includes residential towers, landscaped gardens, a 25,000+ sq.ft. clubhouse, swimming pool, sports courts, jogging track, children's play area, senior citizens' zone, pet park and supporting infrastructure."],
+  ["What clubhouse facilities are planned?", "The grand clubhouse is planned with a multipurpose hall, banquet hall, mini theatre, library, co-working space and other recreational facilities. The wider amenity offering also includes fitness, sports and wellness spaces."],
+  ["Does the township include sports facilities?", "Yes. The planned facilities include badminton, squash, futsal, tennis courts, cricket nets, bowling alley, skating rink, indoor games, swimming pool and jogging track."],
+  ["What are the green features of the master plan?", "The proposed green features include approximately 80% open space, more than 1,000 native trees, landscaped gardens, lawns, rainwater harvesting and organic waste converters."],
+  ["What parking and utility provisions are included?", "The development includes dedicated parking with EV-charging provisions, 24/7 security, power backup, a sewage treatment plant, rainwater harvesting and organic waste converters."],
+  ["What apartment configurations are available?", "Sobha Park City offers 1, 2, 3 and 4 BHK apartments. Their listed SBA ranges from 721 sq.ft. to 2,500 sq.ft."],
+  ["Where is Sobha Park City located?", "The project is located on Hennur Main Road in North Bangalore. The supplied connectivity details include Hennur Main Road Metro Station at 2 km, Outer Ring Road at 6 km and Manyata Tech Park at 7 km."],
+  ["What is the starting price of Sobha Park City?", "The advertised starting price is ₹1.1 Cr onwards. Buyers can request configuration-specific pricing for the available apartment types."],
+  ["When will Sobha Park City be launched?", "The pre-launch opened in November 2026, and the formal project launch is planned for December 2026."],
+  ["When is possession expected?", "Project completion is planned for November 2031, and possession is scheduled for December 2031. RERA registration is awaited."],
 ];
 
 const schema = pageSchema({ path: PATH, name: "Master Plan", title: TITLE, description: DESCRIPTION, image: IMAGES.masterPlan.url, faqs: FAQS });
