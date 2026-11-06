@@ -22,6 +22,7 @@ export default function RERASection() {
               src="/images/rera.webp"
               alt="RERA"
               loading="lazy"
+              title="RERA"
             />
   <p>
     The legal status of Sobha Park City is an important consideration for homebuyers planning to purchase an apartment on Hennur Main Road in North Bangalore. Before making a booking or paying an Expression of Interest (EOI) amount, buyers should verify the project's RERA registration, applicable approvals, land title, and official development documents.

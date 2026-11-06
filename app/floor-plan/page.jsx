@@ -22,7 +22,7 @@ export const metadata = buildMetadata({
     "Sobha Park City Hennur Main Road floor plans",
     "1 2 3 4 BHK apartments in Hennur",
   ],
-  images: [{ ...IMAGES.banner, alt: "Sobha Park City proposed 1, 2, 3 and 4 BHK apartments on Hennur Main Road" }],
+  images: [{ ...IMAGES.floorPlan1, alt: "Sobha Park City proposed 1, 2, 3 and 4 BHK apartments on Hennur Main Road" }],
 });
 
 const FAQS = [

@@ -22,6 +22,7 @@ export default function InvestmentSection() {
               src="/images/investment.webp"
               alt="Investment"
               loading="lazy"
+              title="Investment"
             />
   <p>
     Hennur, in North Bangalore, is a location homebuyers may consider when comparing residential properties based on connectivity, access to employment centres, and everyday convenience. Sobha Park City is described as a residential apartment development on Hennur Main Road, with planned 2, 3, and 4 BHK apartments.

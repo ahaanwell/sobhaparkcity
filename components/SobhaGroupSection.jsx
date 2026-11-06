@@ -22,6 +22,7 @@ export default function  SobhaGroupSection() {
               src="/images/sobha-group.webp"
               alt="Sobha Group"
               loading="lazy"
+              title="Sobha Group"
             />
   <p>
     <a href="https://www.sobha.com/" title="Sobha Limited" target="_blank" rel="nofollow noopener noreferrer"><b>Sobha Limited</b></a>is an established real estate developer in India, founded in 1995 by P.N.C. Menon. The company has built its reputation through residential developments, luxury apartments, villas and other construction projects, with a strong emphasis on architectural design, construction quality and attention to detail. Over the years, Sobha has expanded its presence across major Indian cities, catering to homebuyers looking for thoughtfully planned homes and well-developed residential communities.

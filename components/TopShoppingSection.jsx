@@ -22,6 +22,7 @@ export default function TopShoppingSection() {
               src="/images/top-shopping-hub.webp"
               alt="Top Shopping"
               loading="lazy"
+              title="Top Shopping"
             />
   <p>
     Sobha Park City is an upcoming residential project on Hennur Main Road in North Bangalore. For residents planning to live in this part of the city, nearby shopping centres, supermarkets, retail stores, and malls can be useful for everyday purchases, clothing, home essentials, dining, and entertainment.

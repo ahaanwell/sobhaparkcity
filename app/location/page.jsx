@@ -22,7 +22,7 @@ export const metadata = buildMetadata({
     "North Bangalore residential location",
     "Hennur Road location guide",
   ],
-  images: [{ ...IMAGES.banner, alt: "Sobha Park City proposed location on Hennur Main Road, North Bangalore" }],
+  images: [{ ...IMAGES.map, alt: "Sobha Park City proposed location on Hennur Main Road, North Bangalore" }],
 });
 
 const FAQS = [

@@ -17,9 +17,11 @@ import TopSchoolsSection from "@/components/TopSchoolsSection";
 import TopHospitalsSection from "@/components/TopHospitalsSection";
 import TopShoppingSection from "@/components/TopShoppingSection";
 import SobhaGroupSection from "@/components/SobhaGroupSection";
+import ConstructionStatusSection from "@/components/ConstructionStatusSection";
 
 const KEYWORDS = [
   "Sobha Park City",
+  "Sobha Parkcity",
   "Sobha Park City Hennur Main Road",
   "Sobha Park City new launch",
   "Sobha Park City pre launch",
@@ -64,6 +66,7 @@ export default function Home() {
       <InvestmentSection />
       <ApartmentSection />
       <RERASection />
+      <ConstructionStatusSection/>
       <TopSchoolsSection />
       <TopHospitalsSection />
       <TopShoppingSection />

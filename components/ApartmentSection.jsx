@@ -22,6 +22,7 @@ export default function ApartmentSection() {
               src="/images/apartment.webp"
               alt="Apartment"
               loading="lazy"
+              title="Apartment"
             />
   <p>
     Hennur is a residential area in North Bangalore where buyers can compare apartments of different sizes, layouts, and price points. For a project such as Sobha Park City, the key considerations include access to daily services, apartment planning, transport connections, and the organisation of shared facilities.

@@ -22,6 +22,7 @@ export default function TopHospitalsSection() {
               src="/images/top-hospitals.webp"
               alt="Top Hospitals"
               loading="lazy"
+              title="Top Hospitals"
             />
   <p>
     Sobha Park City is an upcoming residential project on Hennur Main Road in North Bangalore. For families considering this location, access to hospitals, diagnostic centres, maternity facilities, and emergency services is an important part of planning everyday life.

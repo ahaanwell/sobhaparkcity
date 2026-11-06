@@ -23,7 +23,7 @@ export const metadata = buildMetadata({
     "Sobha plots near Malur",
     "Sobha Park City Hennur Main Road",
   ],
-  images: [{ ...IMAGES.banner, alt: DEFAULT_IMAGE_ALT }],
+  images: [{ ...IMAGES.bangalore, alt: DEFAULT_IMAGE_ALT }],
 });
 
 const schema = pageSchema({

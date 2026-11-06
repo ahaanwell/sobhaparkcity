@@ -22,6 +22,7 @@ export default function TopSchoolsSection() {
               src="/images/top-schools.webp"
               alt="Top Schools"
               loading="lazy"
+              title="Top Schools"
             />
   <p>
     Sobha Park City is an upcoming residential project on Hennur Main Road in North Bangalore. For families planning to live in this part of the city, nearby educational institutions are an important consideration when assessing everyday convenience and children's school commute.

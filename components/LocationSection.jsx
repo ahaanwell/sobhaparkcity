@@ -152,7 +152,13 @@ export default function LocationSection() {
   </p>
 
   <h2 className="text-2xl font-bold">Sobha Park City Airport Connectivity</h2>
-
+  <img width={1000} height={664}
+              className="w-full lg:w-1/2 m-auto mb-6"
+              src="/images/airport.webp"
+              alt="Airport Connectivity"
+              loading="lazy"
+              title="Sobha Park City Airport Connectivity"
+            />
   <p>
     For residents of <b>Sobha Park City on Hennur Main Road</b>, access to Kempegowda International Airport is an important factor when considering the project's location. The journey depends on the chosen route, traffic levels, and the precise entry point of the development.
   </p>
@@ -162,7 +168,13 @@ export default function LocationSection() {
   </p>
 
   <h2 className="text-2xl font-bold">Metro Connectivity</h2>
-
+  <img width={1000} height={664}
+              className="w-full lg:w-1/2 m-auto mb-6"
+              src="/images/metro-station.webp"
+              alt="Metro Connectivity"
+              loading="lazy"
+              title="Sobha Park City Metro Connectivity"
+            />
   <p>
     Access to Namma Metro is another consideration for people evaluating Sobha Park City. Buyers can check the operational metro stations serving North Bangalore and determine how easily they can reach them from Hennur Main Road.
   </p>
@@ -172,7 +184,13 @@ export default function LocationSection() {
   </p>
 
   <h2 className="text-2xl font-bold">Bus and Public Transport</h2>
-
+  <img width={1000} height={664}
+              className="w-full lg:w-1/2 m-auto mb-6"
+              src="/images/bus.webp"
+              alt="Bus and Public Transport"
+              loading="lazy"
+              title="Sobha Park City Bus and Public Transport"
+            />
   <p>
     Public transport can provide an alternative to travelling by private car. Prospective residents should investigate BMTC services along Hennur Main Road, including nearby stops, route coverage, and bus frequency.
   </p>
@@ -182,7 +200,13 @@ export default function LocationSection() {
   </p>
 
   <h2 className="text-2xl font-bold">Road Connectivity</h2>
-
+  <img width={1000} height={664}
+              className="w-full lg:w-1/2 m-auto mb-6"
+              src="/images/road-network.webp"
+              alt="Road Connectivity"
+              loading="lazy"
+              title="Sobha Park City Road Connectivity"
+            />
   <p>
     Sobha Park City's stated location on Hennur Main Road makes road access a relevant part of evaluating the development. Buyers should consider the routes connecting the area with employment centres, the airport, and other residential neighbourhoods.
   </p>

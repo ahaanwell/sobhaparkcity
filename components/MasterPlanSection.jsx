@@ -38,6 +38,7 @@ export default function MasterPlanSection() {
               alt="Sobha Park City master plan"
               className="w-full h-full object-cover"
               loading="lazy"
+              title="Sobha Park City master plan"
             />
 
             <MasterPlanClient/>
